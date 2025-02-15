@@ -4,7 +4,17 @@
     - name: 正则
       link: https://regexr.com/
       desc: 支持正则表达式解释、测试用例验证
-    
+    - name: 可视化正则
+      link: https://regexper.com/
+      desc: 支持可视化解释正则表达式
+    - name: 图片转 BASE64
+      link: https://www.base64-image.de/
+  
+  记录:
+    list:
+    - name: 生成好看的代码片段截图
+      link: https://carbon.now.sh/
+      desc: Create and share beautiful images of your source code.
 
 
 历史:
