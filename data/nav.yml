@@ -2,9 +2,19 @@
 
 
 历史:
+  list:
+  - name: 全历史
+    link: https://www.allhistory.com/
+    desc: 可以按时间轴看各国的历史
 
 
 视频:
   电影:
 
   动漫:
+
+书法:
+  list:
+  - name: 汉字字帖
+    link: https://paper.z2h.cn/han
+    desc: 在线生成硬笔汉字字帖，可用于打印练习
