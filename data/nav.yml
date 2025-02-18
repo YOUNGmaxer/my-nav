@@ -12,6 +12,15 @@
     - name: JSON 格式化工具
       link: https://www.jsont.run/
       desc: 支持 JSON 的格式化和编辑，以及各种视图的表示
+    - name: HTTPie
+      link: https://httpie.io/app
+      desc: 用于 HTTP 请求调试
+    - name: SVG to CSS
+      link: https://www.svgbackgrounds.com/tools/svg-to-css/
+      desc: SVG 转 CSS 使用代码
+    - name: JavaScript Event KeyCodes
+      link: https://www.toptal.com/developers/keycode
+      desc: KeyCode 查询
   
   记录:
     list:
@@ -19,6 +28,10 @@
       link: https://carbon.now.sh/
       desc: Create and share beautiful images of your source code.
 
+  编辑:
+    list:
+    - name: 在线视频、音频、PDF 编辑工具
+      link: https://123apps.com/cn/
 
 历史:
   list:
@@ -26,11 +39,16 @@
     link: https://www.allhistory.com/
     desc: 可以按时间轴看各国的历史
 
+资源:
+  应用:
+    list:
+    - name: 精品 MAC 应用分享
+      link: https://xclient.info/
 
-视频:
-  电影:
+  视频:
+    电影:
 
-  动漫:
+    动漫:
 
 书法:
   list:
