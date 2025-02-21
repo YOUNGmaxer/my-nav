@@ -38,11 +38,14 @@
   - name: Dandy Weng
     link: https://www.dandyweng.com/
 
-历史:
+人文:
   list:
   - name: 全历史
     link: https://www.allhistory.com/
     desc: 可以按时间轴看各国的历史
+  - name: 唐韵
+    link: https://www.chinesepoems.org/
+    desc: 界面简洁好看的古诗词站点
 
 资源:
   应用:
