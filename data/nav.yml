@@ -69,3 +69,11 @@
   - name: 汉字字帖
     link: https://paper.z2h.cn/han
     desc: 在线生成硬笔汉字字帖，可用于打印练习
+
+文章:
+  list:
+  - name: 50 Years of Travel Tips
+    link: https://kk.org/thetechnium/50-years-of-travel-tips/
+    desc: 其实，在更少的地方待更长的时间，远比把时间花在一堆地方好得多。你更应该放慢旅行的速度，多休息。旅行最难忘的时刻----与陌生人的交谈、被邀请参观、发现隐藏的地点----通常发生在你停下来的时候。
+    tag:
+    - 旅行
