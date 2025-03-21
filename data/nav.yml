@@ -21,6 +21,13 @@
     - name: JavaScript Event KeyCodes
       link: https://www.toptal.com/developers/keycode
       desc: KeyCode 查询
+    - name: 浏览器插件开发框架
+      link: https://wxt.dev/
+      desc: 能力完善，支持 HMR
+    - name: Free For Developers
+      link: https://free-for.dev/
+      desc: 开发者免费工具集
+      
   
   记录:
     list:
@@ -32,11 +39,17 @@
     list:
     - name: 在线视频、音频、PDF 编辑工具
       link: https://123apps.com/cn/
+    - name: 在线封面制作
+      link: https://www.coverpage.one/pure
+      desc: 比如做一个简单的纯色背景封面
 
 博客:
   list:
   - name: Dandy Weng
     link: https://www.dandyweng.com/
+  - name: Corey Chiu
+    link: https://coreychiu.com/
+    desc: 站点设计简洁，有一些不错的个人作品
 
 人文:
   list:
@@ -58,6 +71,9 @@
     - name: 全球酷站
       link: https://matrixflip.com/
       desc: 收录了一些设计精美独特的网站
+    - name: player.style
+      link: https://player.style/
+      desc: 各种播放器样式（适合用在个人站点中）
 
   视频:
     电影:
