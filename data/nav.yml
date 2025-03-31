@@ -74,6 +74,8 @@
     - name: player.style
       link: https://player.style/
       desc: 各种播放器样式（适合用在个人站点中）
+    - name: 免费商用字体
+      link: https://fonts.zeoseven.com/
 
   视频:
     电影:
