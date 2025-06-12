@@ -61,6 +61,12 @@
     desc: 界面简洁好看的古诗词站点
 
 资源:
+  综合:
+    list:
+    - name: u1
+      link: https://u1.cx/
+      desc: 综合资源网站，有热榜、工具、影视等
+
   应用:
     list:
     - name: 精品 MAC 应用分享
